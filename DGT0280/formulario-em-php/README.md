@@ -3,7 +3,7 @@
 Ao executar o comando abaixo:
 
 ```bash
-cd DGT0280
+cd DGT0280/formulario-em-php
 php -S 0.0.0.0:5000
 ```
 
