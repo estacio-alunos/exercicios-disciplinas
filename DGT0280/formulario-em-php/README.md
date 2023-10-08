@@ -4,7 +4,9 @@ ao executar o comando abaixo
 
 ```bash
 cd DGT0280
-php index.php
+php -S 0.0.0.0:5000
 ```
 
-temos o seguinte erro:
+e visitar o endereço <http://0.0.0.0:5000>
+
+temos por resultado uma página vazia.
